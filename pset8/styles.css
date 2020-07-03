@@ -1,0 +1,94 @@
+body{
+  width: 100%;
+  margin-left: 0px;
+}
+.Intro{
+  background-image:url("building.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.reality{
+  height : 300px;
+  width: 500px;
+}
+.tall{
+  height: 400px;
+  width: 300px;
+}
+.fb, .tw, .in, .insta, .ytube, .mail{
+  padding: 8px;
+  color: black;
+  cursor: pointer;
+}
+.fb:hover{
+  color: #3b5998;
+}
+.tw:hover{
+  color:#00acee;
+}
+.in:hover{
+  color:  #0e76a8;
+}
+.insta:hover{
+
+    background: -webkit-radial-gradient(33% 100% circle, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.ytube:hover{
+color: #c4302b;
+}
+.mail:hover{
+  color: white;
+}
+.comp_info{
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 100px;
+  opacity: 0.6;
+  padding-top: 20px;
+  padding-bottom: 35px;
+}
+div.comp_name{
+padding-top: 70px;
+}
+.cover-heading{
+  font-size: 50px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  border: 3px solid white;
+  padding-left: 10px;
+  width:500px;
+margin-left: 200px;
+}
+.custom{
+  border: 1px solid white;
+}
+.lead{
+  font-size: 25px;
+}
+.space{
+    padding-left: 10px;
+}
+.maple{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: serif;
+}
+footer{
+  background-color: #c7c7c7;
+}
+.none{
+  border: none;
+}
+.card, .lead{
+  border: none;
+  text-align: left;
+}
+.read{
+margin-top: 10px;
+}
